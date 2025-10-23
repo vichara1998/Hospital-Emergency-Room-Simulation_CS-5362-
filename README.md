@@ -38,5 +38,5 @@ The simulation tracks and reports the following key metrics:
     ```
 ## Sample outputs
 
-![Sample Output](Result/Sample output1.jpeg)
-![Sample Output](Result/Sample output2.jpeg)
+![Sample Output](Result/Sample output1.png)
+![Sample Output](Result/Sample output2.png)
