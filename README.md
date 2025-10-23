@@ -36,3 +36,7 @@ The simulation tracks and reports the following key metrics:
     ```bash
     python er_simulation.py
     ```
+## Sample outputs
+
+![Sample Output 1](Result/sample_output_1.png)
+![Sample Output 2](Result/sample_output_2.png)
