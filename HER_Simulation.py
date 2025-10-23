@@ -3,7 +3,7 @@ import simpy
 import numpy as np
 
 # Configuration parameters
-NUM_DOCTORS = 7
+NUM_DOCTORS = 5
 AVG_CONSULTATION_TIME = 12  # minutes
 PATIENT_ARRIVAL_INTERVAL = 2  # minutes
 SIMULATION_TIME = 120  # total time in minutes
