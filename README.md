@@ -34,7 +34,7 @@ The simulation tracks and reports the following key metrics:
     ```
 2.  **Execution:** Save the entire code as a single file (e.g., `HER_Simulation.py`) and run it from your terminal:
     ```bash
-    python er_simulation.py
+    python HER_simulation.py
     ```
 ## Sample outputs
 
