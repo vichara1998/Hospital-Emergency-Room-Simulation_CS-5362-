@@ -8,7 +8,7 @@ To test how **patient severity** (case complexity) impacts **doctor utilization*
 
 ## ⚙️ Configuration
 
-The core variables for this simulation are set at the top of the Python file:
+The core variables for this simulation are set at the top of the Python file
 
 | Parameter | Value in Code |
 | :--- | :--- |
@@ -19,7 +19,7 @@ The core variables for this simulation are set at the top of the Python file:
 
 ##  Key Results
 
-The simulation tracks and reports the following key metrics:
+The simulation tracks and reports the following key metrics
 
 * **Doctor Utilization (%)**
 * **Average Wait Time (min)**
@@ -28,11 +28,11 @@ The simulation tracks and reports the following key metrics:
 
 ## ▶️ How to Run
 
-1.  **Prerequisites:** Install Python and the required libraries:
+1.  **Prerequisites:** Install Python and the required libraries
     ```bash
     pip install simpy numpy
     ```
-2.  **Execution:** Save the entire code as a single file (e.g., `HER_Simulation.py`) and run it from your terminal:
+2.  **Execution:** Save the entire code as a single file (`HER_Simulation.py`) and run it from your terminal
     ```bash
     python HER_simulation.py
     ```
